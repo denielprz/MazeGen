@@ -21,4 +21,3 @@ java MazeSolverBFS filename.txt
 
 **Created by John Deniel Perez**
 **25/09/2022**
-**c3390606**
